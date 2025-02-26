@@ -1,0 +1,5018 @@
+[
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "col-al00",
+      "deviceCommercialName": "honor 10",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "col-al10",
+      "deviceCommercialName": "honor 10",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "col-l29",
+      "deviceCommercialName": "honor 10",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "col-tl10",
+      "deviceCommercialName": "honor 10",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "yal-al00",
+      "deviceCommercialName": "honor 20",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "yal-l21",
+      "deviceCommercialName": "honor 20",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "yal-tl00",
+      "deviceCommercialName": "honor 20",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "stf-al00",
+      "deviceCommercialName": "honor 9",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "stf-al10",
+      "deviceCommercialName": "honor 9",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "stf-l09",
+      "deviceCommercialName": "honor 9",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "stf-l09s",
+      "deviceCommercialName": "honor 9",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "stf-tl10",
+      "deviceCommercialName": "honor 9",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "tny-al00",
+      "deviceCommercialName": "honor magic 2",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "tny-tl00",
+      "deviceCommercialName": "honor magic 2",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "rvl-al09",
+      "deviceCommercialName": "honor note10",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "cor-al00",
+      "deviceCommercialName": "honor play",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "cor-al10",
+      "deviceCommercialName": "honor play",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "cor-l29",
+      "deviceCommercialName": "honor play",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "cor-tl10",
+      "deviceCommercialName": "honor play",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "bkl-al00",
+      "deviceCommercialName": "honor v10",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "bkl-al20",
+      "deviceCommercialName": "honor v10",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "bkl-tl10",
+      "deviceCommercialName": "honor v10",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "pct-tl10",
+      "deviceCommercialName": "honor v20",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "duk-al20",
+      "deviceCommercialName": "honor v9",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "duk-tl30",
+      "deviceCommercialName": "honor v9",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "alp-al00",
+      "deviceCommercialName": "huawei mate 10-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "alp-l09",
+      "deviceCommercialName": "huawei mate 10-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "alp-l29",
+      "deviceCommercialName": "huawei mate 10-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "alp-tl00",
+      "deviceCommercialName": "huawei mate 10-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "bla-a09",
+      "deviceCommercialName": "huawei mate 10-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "bla-al00",
+      "deviceCommercialName": "huawei mate 10-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "bla-l09",
+      "deviceCommercialName": "huawei mate 10-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "bla-l29",
+      "deviceCommercialName": "huawei mate 10-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "bla-tl00",
+      "deviceCommercialName": "huawei mate 10-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "rne-l01",
+      "deviceCommercialName": "huawei mate 10-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "rne-l03",
+      "deviceCommercialName": "huawei mate 10-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "rne-l21",
+      "deviceCommercialName": "huawei mate 10-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "rne-l23",
+      "deviceCommercialName": "huawei mate 10-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "hma-l09",
+      "deviceCommercialName": "huawei mate 20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "hma-l29",
+      "deviceCommercialName": "huawei mate 20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "lya-l0c",
+      "deviceCommercialName": "huawei mate 20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "lya-l29",
+      "deviceCommercialName": "huawei mate 20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "evr-an00",
+      "deviceCommercialName": "huawei mate 20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "evr-n29",
+      "deviceCommercialName": "huawei mate 20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "sne-lx1",
+      "deviceCommercialName": "huawei mate 20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "evr-l29",
+      "deviceCommercialName": "huawei mate 20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "evr-tl00",
+      "deviceCommercialName": "huawei mate 20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "evr-al00",
+      "deviceCommercialName": "huawei mate 20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "hma-al00",
+      "deviceCommercialName": "huawei mate 20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "hma-tl00",
+      "deviceCommercialName": "huawei mate 20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "lya-al00",
+      "deviceCommercialName": "huawei mate 20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "lya-al10",
+      "deviceCommercialName": "huawei mate 20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "lya-l09",
+      "deviceCommercialName": "huawei mate 20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "lya-tl00",
+      "deviceCommercialName": "huawei mate 20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "lya-al00p",
+      "deviceCommercialName": "huawei mate 20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "sne-lx2",
+      "deviceCommercialName": "huawei mate 20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "sne-lx3",
+      "deviceCommercialName": "huawei mate 20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "tas-l09",
+      "deviceCommercialName": "huawei mate 30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "tas-l29",
+      "deviceCommercialName": "huawei mate 30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "tas-al00",
+      "deviceCommercialName": "huawei mate 30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "tas-tl00",
+      "deviceCommercialName": "huawei mate 30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "lio-l09",
+      "deviceCommercialName": "huawei mate 30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "lio-l29",
+      "deviceCommercialName": "huawei mate 30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "lio-al00",
+      "deviceCommercialName": "huawei mate 30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "lio-tl00",
+      "deviceCommercialName": "huawei mate 30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "lio-n29",
+      "deviceCommercialName": "huawei mate 30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "lio-al10",
+      "deviceCommercialName": "huawei mate 30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "lio-tl10",
+      "deviceCommercialName": "huawei mate 30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "tas-an00",
+      "deviceCommercialName": "huawei mate 30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "tas-tn00",
+      "deviceCommercialName": "huawei mate 30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "lio-an00m",
+      "deviceCommercialName": "huawei mate 30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "spl-al00",
+      "deviceCommercialName": "huawei mate 30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "spl-tl00",
+      "deviceCommercialName": "huawei mate 30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "lio-an00p",
+      "deviceCommercialName": "huawei mate 30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "lio-an00",
+      "deviceCommercialName": "huawei mate 30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "noh-nx9",
+      "deviceCommercialName": "huawei mate 40-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "noh-an00",
+      "deviceCommercialName": "huawei mate 40-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "noh-an01",
+      "deviceCommercialName": "huawei mate 40-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "nop-an00",
+      "deviceCommercialName": "huawei mate 40-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "oce-an10",
+      "deviceCommercialName": "huawei mate 40-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "noh-al00",
+      "deviceCommercialName": "huawei mate 40-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "oce-an50",
+      "deviceCommercialName": "huawei mate 40-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "oce-al50",
+      "deviceCommercialName": "huawei mate 40-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "bll-l23",
+      "deviceCommercialName": "huawei mate 9-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "huawei bll-l23",
+      "deviceCommercialName": "huawei mate 9-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "mha-al00",
+      "deviceCommercialName": "huawei mate 9-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "mha-l09",
+      "deviceCommercialName": "huawei mate 9-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "mha-l29",
+      "deviceCommercialName": "huawei mate 9-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "mha-tl00",
+      "deviceCommercialName": "huawei mate 9-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "lon-al00",
+      "deviceCommercialName": "huawei mate 9-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "lon-l29",
+      "deviceCommercialName": "huawei mate 9-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "neo-al00",
+      "deviceCommercialName": "huawei mate rs",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "neo-l29",
+      "deviceCommercialName": "huawei mate rs",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "tah-an00",
+      "deviceCommercialName": "huawei mate x-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "tah-n29m",
+      "deviceCommercialName": "huawei mate x-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "hwi-al00",
+      "deviceCommercialName": "huawei nova 2s",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "hwi-tl00",
+      "deviceCommercialName": "huawei nova 2s",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "ine-lx1",
+      "deviceCommercialName": "huawei nova 3-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "ine-lx2r",
+      "deviceCommercialName": "huawei nova 3-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "par-al00",
+      "deviceCommercialName": "huawei nova 3-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "par-l21",
+      "deviceCommercialName": "huawei nova 3-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "par-l29",
+      "deviceCommercialName": "huawei nova 3-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "par-lx1",
+      "deviceCommercialName": "huawei nova 3-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "par-lx1m",
+      "deviceCommercialName": "huawei nova 3-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "par-lx9",
+      "deviceCommercialName": "huawei nova 3-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "par-tl00",
+      "deviceCommercialName": "huawei nova 3-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "par-tl20",
+      "deviceCommercialName": "huawei nova 3-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "ane-al00",
+      "deviceCommercialName": "huawei nova 3-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "ane-tl00",
+      "deviceCommercialName": "huawei nova 3-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "ine-al00",
+      "deviceCommercialName": "huawei nova 3-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "ine-lx1r",
+      "deviceCommercialName": "huawei nova 3-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "ine-lx2",
+      "deviceCommercialName": "huawei nova 3-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "ine-tl00",
+      "deviceCommercialName": "huawei nova 3-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "vtr-al00",
+      "deviceCommercialName": "huawei p10-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "vtr-l09",
+      "deviceCommercialName": "huawei p10-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "vtr-l29",
+      "deviceCommercialName": "huawei p10-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "vtr-tl00",
+      "deviceCommercialName": "huawei p10-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "vky-al00",
+      "deviceCommercialName": "huawei p10-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "vky-l09",
+      "deviceCommercialName": "huawei p10-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "vky-l29",
+      "deviceCommercialName": "huawei p10-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "vky-tl00",
+      "deviceCommercialName": "huawei p10-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "was-l03t",
+      "deviceCommercialName": "huawei p10-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "was-lx1",
+      "deviceCommercialName": "huawei p10-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "was-lx1a",
+      "deviceCommercialName": "huawei p10-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "was-lx2",
+      "deviceCommercialName": "huawei p10-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "was-lx2j",
+      "deviceCommercialName": "huawei p10-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "was-lx3",
+      "deviceCommercialName": "huawei p10-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "ane-lx2j",
+      "deviceCommercialName": "huawei p20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "hwv32",
+      "deviceCommercialName": "huawei p20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "eml-al00",
+      "deviceCommercialName": "huawei p20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "eml-l09",
+      "deviceCommercialName": "huawei p20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "eml-l29",
+      "deviceCommercialName": "huawei p20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "eml-tl00",
+      "deviceCommercialName": "huawei p20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "hw-01k",
+      "deviceCommercialName": "huawei p20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "clt-al00",
+      "deviceCommercialName": "huawei p20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "clt-al00l",
+      "deviceCommercialName": "huawei p20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "clt-al01",
+      "deviceCommercialName": "huawei p20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "clt-l04",
+      "deviceCommercialName": "huawei p20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "clt-l09",
+      "deviceCommercialName": "huawei p20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "clt-l29",
+      "deviceCommercialName": "huawei p20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "clt-tl00",
+      "deviceCommercialName": "huawei p20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "clt-tl01",
+      "deviceCommercialName": "huawei p20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "ane-lx1",
+      "deviceCommercialName": "huawei p20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "ane-lx2",
+      "deviceCommercialName": "huawei p20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "ane-lx3",
+      "deviceCommercialName": "huawei p20-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "ele-al00",
+      "deviceCommercialName": "huawei p30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "ele-l04",
+      "deviceCommercialName": "huawei p30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "ele-l09",
+      "deviceCommercialName": "huawei p30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "ele-l14",
+      "deviceCommercialName": "huawei p30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "ele-l29",
+      "deviceCommercialName": "huawei p30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "ele-l39",
+      "deviceCommercialName": "huawei p30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "ele-l49",
+      "deviceCommercialName": "huawei p30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "ele-tl00",
+      "deviceCommercialName": "huawei p30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "hwv33",
+      "deviceCommercialName": "huawei p30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "mar-lx1a",
+      "deviceCommercialName": "huawei p30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "mar-lx1am",
+      "deviceCommercialName": "huawei p30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "mar-lx1b",
+      "deviceCommercialName": "huawei p30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "mar-lx1m",
+      "deviceCommercialName": "huawei p30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "mar-lx1mm",
+      "deviceCommercialName": "huawei p30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "mar-lx2",
+      "deviceCommercialName": "huawei p30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "mar-lx2b",
+      "deviceCommercialName": "huawei p30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "mar-lx2m",
+      "deviceCommercialName": "huawei p30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "mar-lx3a",
+      "deviceCommercialName": "huawei p30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "mar-lx3am",
+      "deviceCommercialName": "huawei p30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "mar-lx3bm",
+      "deviceCommercialName": "huawei p30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "hw-02l",
+      "deviceCommercialName": "huawei p30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "vog-al00",
+      "deviceCommercialName": "huawei p30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "vog-al10",
+      "deviceCommercialName": "huawei p30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "vog-l04",
+      "deviceCommercialName": "huawei p30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "vog-l09",
+      "deviceCommercialName": "huawei p30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "vog-l29",
+      "deviceCommercialName": "huawei p30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "vog-tl00",
+      "deviceCommercialName": "huawei p30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "mar-lx2j",
+      "deviceCommercialName": "huawei p30-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "els-nx9",
+      "deviceCommercialName": "huawei p40-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "els-n04",
+      "deviceCommercialName": "huawei p40-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "els-an00",
+      "deviceCommercialName": "huawei p40-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "els-tn00",
+      "deviceCommercialName": "huawei p40-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "jny-l21a",
+      "deviceCommercialName": "huawei p40-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "jny-l01a",
+      "deviceCommercialName": "huawei p40-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "jny-l21b",
+      "deviceCommercialName": "huawei p40-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "jny-l22a",
+      "deviceCommercialName": "huawei p40-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "jny-l02a",
+      "deviceCommercialName": "huawei p40-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "jny-l22b",
+      "deviceCommercialName": "huawei p40-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "jny-lx1",
+      "deviceCommercialName": "huawei p40-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "ana-an00",
+      "deviceCommercialName": "huawei p40-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "ana-tn00",
+      "deviceCommercialName": "huawei p40-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "ana-nx9",
+      "deviceCommercialName": "huawei p40-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "ana-lx4",
+      "deviceCommercialName": "huawei p40-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "els-n39",
+      "deviceCommercialName": "huawei p40-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "els-an10",
+      "deviceCommercialName": "huawei p40-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "cdy-nx9a",
+      "deviceCommercialName": "huawei p40-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "ana-al00",
+      "deviceCommercialName": "huawei p40-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "art-l28",
+      "deviceCommercialName": "huawei p40-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "art-l29",
+      "deviceCommercialName": "huawei p40-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "huawei",
+      "deviceModel": "art-l29n",
+      "deviceCommercialName": "huawei p40-serie",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scg08",
+      "deviceCommercialName": "samsung galaxy a32 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a326b",
+      "deviceCommercialName": "samsung galaxy a32 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a326br",
+      "deviceCommercialName": "samsung galaxy a32 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a326u",
+      "deviceCommercialName": "samsung galaxy a32 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a326u1",
+      "deviceCommercialName": "samsung galaxy a32 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a326w",
+      "deviceCommercialName": "samsung galaxy a32 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s326dl",
+      "deviceCommercialName": "samsung galaxy a32 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a4260",
+      "deviceCommercialName": "samsung galaxy a42 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a426b",
+      "deviceCommercialName": "samsung galaxy a42 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a426n",
+      "deviceCommercialName": "samsung galaxy a42 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a426u",
+      "deviceCommercialName": "samsung galaxy a42 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a426u1",
+      "deviceCommercialName": "samsung galaxy a42 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s426dl",
+      "deviceCommercialName": "samsung galaxy a42 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a5070",
+      "deviceCommercialName": "samsung galaxy a50s",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a507fn",
+      "deviceCommercialName": "samsung galaxy a50s",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a515f",
+      "deviceCommercialName": "samsung galaxy a51",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a515u",
+      "deviceCommercialName": "samsung galaxy a51",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a515u1",
+      "deviceCommercialName": "samsung galaxy a51",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a515w",
+      "deviceCommercialName": "samsung galaxy a51",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s515dl",
+      "deviceCommercialName": "samsung galaxy a51",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sc-53b",
+      "deviceCommercialName": "samsung galaxy a52 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a5260",
+      "deviceCommercialName": "samsung galaxy a52 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a526b",
+      "deviceCommercialName": "samsung galaxy a52 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a526n",
+      "deviceCommercialName": "samsung galaxy a52 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a526u",
+      "deviceCommercialName": "samsung galaxy a52 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a526u1",
+      "deviceCommercialName": "samsung galaxy a52 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a526w",
+      "deviceCommercialName": "samsung galaxy a52 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a6060",
+      "deviceCommercialName": "samsung galaxy a60",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a606y",
+      "deviceCommercialName": "samsung galaxy a60",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a7050",
+      "deviceCommercialName": "samsung galaxy a70",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a705f",
+      "deviceCommercialName": "samsung galaxy a70",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a705fn",
+      "deviceCommercialName": "samsung galaxy a70",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a705gm",
+      "deviceCommercialName": "samsung galaxy a70",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a705mn",
+      "deviceCommercialName": "samsung galaxy a70",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a705u",
+      "deviceCommercialName": "samsung galaxy a70",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a705w",
+      "deviceCommercialName": "samsung galaxy a70",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a705yn",
+      "deviceCommercialName": "samsung galaxy a70",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a715f",
+      "deviceCommercialName": "samsung galaxy a71",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a715w",
+      "deviceCommercialName": "samsung galaxy a71",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a730f",
+      "deviceCommercialName": "samsung galaxy a8+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a730x",
+      "deviceCommercialName": "samsung galaxy a8+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scv32",
+      "deviceCommercialName": "samsung galaxy a8",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a800f",
+      "deviceCommercialName": "samsung galaxy a8",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a800yz",
+      "deviceCommercialName": "samsung galaxy a8",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a800s",
+      "deviceCommercialName": "samsung galaxy a8",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a800i",
+      "deviceCommercialName": "samsung galaxy a8",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a800iz",
+      "deviceCommercialName": "samsung galaxy a8",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a8000",
+      "deviceCommercialName": "samsung galaxy a8",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a800x",
+      "deviceCommercialName": "samsung galaxy a8",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g885f",
+      "deviceCommercialName": "samsung galaxy a8",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g885y",
+      "deviceCommercialName": "samsung galaxy a8",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g8850",
+      "deviceCommercialName": "samsung galaxy a8",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g885s",
+      "deviceCommercialName": "samsung galaxy a8",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a810f",
+      "deviceCommercialName": "samsung galaxy a8",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a810yz",
+      "deviceCommercialName": "samsung galaxy a8",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a810s",
+      "deviceCommercialName": "samsung galaxy a8",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a530f",
+      "deviceCommercialName": "samsung galaxy a8",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a530x",
+      "deviceCommercialName": "samsung galaxy a8",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a530w",
+      "deviceCommercialName": "samsung galaxy a8",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a530n",
+      "deviceCommercialName": "samsung galaxy a8",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a8050",
+      "deviceCommercialName": "samsung galaxy a80",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a805f",
+      "deviceCommercialName": "samsung galaxy a80",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a805n",
+      "deviceCommercialName": "samsung galaxy a80",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g887f",
+      "deviceCommercialName": "samsung galaxy a8s",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g8870",
+      "deviceCommercialName": "samsung galaxy a8s",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a920f",
+      "deviceCommercialName": "samsung galaxy a9 (2018)",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a920n",
+      "deviceCommercialName": "samsung galaxy a9 (2018)",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-c5010",
+      "deviceCommercialName": "samsung galaxy c5 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-c5018",
+      "deviceCommercialName": "samsung galaxy c5 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-c701f",
+      "deviceCommercialName": "samsung galaxy c7 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-c7010",
+      "deviceCommercialName": "samsung galaxy c7 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-c7018",
+      "deviceCommercialName": "samsung galaxy c7 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-c900f",
+      "deviceCommercialName": "samsung galaxy c9 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-c900y",
+      "deviceCommercialName": "samsung galaxy c9 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-c9000",
+      "deviceCommercialName": "samsung galaxy c9 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-c9008",
+      "deviceCommercialName": "samsung galaxy c9 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-c900x",
+      "deviceCommercialName": "samsung galaxy c9 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scv44",
+      "deviceCommercialName": "samsung galaxy fold",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f9000",
+      "deviceCommercialName": "samsung galaxy fold",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f900f",
+      "deviceCommercialName": "samsung galaxy fold",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f900u",
+      "deviceCommercialName": "samsung galaxy fold",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f900u1",
+      "deviceCommercialName": "samsung galaxy fold",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f900w",
+      "deviceCommercialName": "samsung galaxy fold",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n770f",
+      "deviceCommercialName": "samsung galaxy note10 lite",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sc-01m",
+      "deviceCommercialName": "samsung galaxy note10+",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scv45",
+      "deviceCommercialName": "samsung galaxy note10+",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n9750",
+      "deviceCommercialName": "samsung galaxy note10+",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n975c",
+      "deviceCommercialName": "samsung galaxy note10+",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n975u",
+      "deviceCommercialName": "samsung galaxy note10+",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n975u1",
+      "deviceCommercialName": "samsung galaxy note10+",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n975w",
+      "deviceCommercialName": "samsung galaxy note10+",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n975f",
+      "deviceCommercialName": "samsung galaxy note10+",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n970f",
+      "deviceCommercialName": "samsung galaxy note10",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n9700",
+      "deviceCommercialName": "samsung galaxy note10",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n970u",
+      "deviceCommercialName": "samsung galaxy note10",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n970u1",
+      "deviceCommercialName": "samsung galaxy note10",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n970w",
+      "deviceCommercialName": "samsung galaxy note10",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n9810",
+      "deviceCommercialName": "samsung galaxy note20 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n981n",
+      "deviceCommercialName": "samsung galaxy note20 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n981u",
+      "deviceCommercialName": "samsung galaxy note20 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n981u1",
+      "deviceCommercialName": "samsung galaxy note20 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n981w",
+      "deviceCommercialName": "samsung galaxy note20 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n981b",
+      "deviceCommercialName": "samsung galaxy note20 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sc-53a",
+      "deviceCommercialName": "samsung galaxy note20 ultra 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scg06",
+      "deviceCommercialName": "samsung galaxy note20 ultra 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n9860",
+      "deviceCommercialName": "samsung galaxy note20 ultra 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n986n",
+      "deviceCommercialName": "samsung galaxy note20 ultra 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n986u",
+      "deviceCommercialName": "samsung galaxy note20 ultra 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n986u1",
+      "deviceCommercialName": "samsung galaxy note20 ultra 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n986w",
+      "deviceCommercialName": "samsung galaxy note20 ultra 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n986b",
+      "deviceCommercialName": "samsung galaxy note20 ultra 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n9208",
+      "deviceCommercialName": "samsung galaxy note5",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n920c",
+      "deviceCommercialName": "samsung galaxy note5",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n920f",
+      "deviceCommercialName": "samsung galaxy note5",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n920g",
+      "deviceCommercialName": "samsung galaxy note5",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n920i",
+      "deviceCommercialName": "samsung galaxy note5",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n920x",
+      "deviceCommercialName": "samsung galaxy note5",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n920r7",
+      "deviceCommercialName": "samsung galaxy note5",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "samsung-sm-n920a",
+      "deviceCommercialName": "samsung galaxy note5",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n920w8",
+      "deviceCommercialName": "samsung galaxy note5",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n9200",
+      "deviceCommercialName": "samsung galaxy note5",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n920k",
+      "deviceCommercialName": "samsung galaxy note5",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n920l",
+      "deviceCommercialName": "samsung galaxy note5",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n920r6",
+      "deviceCommercialName": "samsung galaxy note5",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n920s",
+      "deviceCommercialName": "samsung galaxy note5",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n920p",
+      "deviceCommercialName": "samsung galaxy note5",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n920t",
+      "deviceCommercialName": "samsung galaxy note5",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n920r4",
+      "deviceCommercialName": "samsung galaxy note5",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n920v",
+      "deviceCommercialName": "samsung galaxy note5",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sc-01k",
+      "deviceCommercialName": "samsung galaxy note8",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scv37",
+      "deviceCommercialName": "samsung galaxy note8",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n950f",
+      "deviceCommercialName": "samsung galaxy note8",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n950n",
+      "deviceCommercialName": "samsung galaxy note8",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n950xn",
+      "deviceCommercialName": "samsung galaxy note8",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n950u",
+      "deviceCommercialName": "samsung galaxy note8",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n9500",
+      "deviceCommercialName": "samsung galaxy note8",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n9508",
+      "deviceCommercialName": "samsung galaxy note8",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n950w",
+      "deviceCommercialName": "samsung galaxy note8",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n950u1",
+      "deviceCommercialName": "samsung galaxy note8",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sc-01l",
+      "deviceCommercialName": "samsung galaxy note9",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scv40",
+      "deviceCommercialName": "samsung galaxy note9",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n960f",
+      "deviceCommercialName": "samsung galaxy note9",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n960n",
+      "deviceCommercialName": "samsung galaxy note9",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n9600",
+      "deviceCommercialName": "samsung galaxy note9",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n960w",
+      "deviceCommercialName": "samsung galaxy note9",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n960u",
+      "deviceCommercialName": "samsung galaxy note9",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-n960u1",
+      "deviceCommercialName": "samsung galaxy note9",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sc-04l",
+      "deviceCommercialName": "samsung galaxy s10+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scv42",
+      "deviceCommercialName": "samsung galaxy s10+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g975f",
+      "deviceCommercialName": "samsung galaxy s10+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g975n",
+      "deviceCommercialName": "samsung galaxy s10+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g9750",
+      "deviceCommercialName": "samsung galaxy s10+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g9758",
+      "deviceCommercialName": "samsung galaxy s10+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g975u",
+      "deviceCommercialName": "samsung galaxy s10+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g975u1",
+      "deviceCommercialName": "samsung galaxy s10+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g975w",
+      "deviceCommercialName": "samsung galaxy s10+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sc-03l",
+      "deviceCommercialName": "samsung galaxy s10",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scv41",
+      "deviceCommercialName": "samsung galaxy s10",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g973f",
+      "deviceCommercialName": "samsung galaxy s10",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g973n",
+      "deviceCommercialName": "samsung galaxy s10",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g9730",
+      "deviceCommercialName": "samsung galaxy s10",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g9738",
+      "deviceCommercialName": "samsung galaxy s10",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g973c",
+      "deviceCommercialName": "samsung galaxy s10",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g973u",
+      "deviceCommercialName": "samsung galaxy s10",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g973u1",
+      "deviceCommercialName": "samsung galaxy s10",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g973w",
+      "deviceCommercialName": "samsung galaxy s10",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g970f",
+      "deviceCommercialName": "samsung galaxy s10e",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g970n",
+      "deviceCommercialName": "samsung galaxy s10e",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g9700",
+      "deviceCommercialName": "samsung galaxy s10e",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g9708",
+      "deviceCommercialName": "samsung galaxy s10e",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g970u",
+      "deviceCommercialName": "samsung galaxy s10e",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g970u1",
+      "deviceCommercialName": "samsung galaxy s10e",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g970w",
+      "deviceCommercialName": "samsung galaxy s10e",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g780g",
+      "deviceCommercialName": "samsung galaxy s20 fe",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g780f",
+      "deviceCommercialName": "samsung galaxy s20 fe",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g9880",
+      "deviceCommercialName": "samsung galaxy s20 ultra",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g988n",
+      "deviceCommercialName": "samsung galaxy s20 ultra",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g988q",
+      "deviceCommercialName": "samsung galaxy s20 ultra",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g988u",
+      "deviceCommercialName": "samsung galaxy s20 ultra",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g988u1",
+      "deviceCommercialName": "samsung galaxy s20 ultra",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g988w",
+      "deviceCommercialName": "samsung galaxy s20 ultra",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g988b",
+      "deviceCommercialName": "samsung galaxy s20 ultra",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g985f",
+      "deviceCommercialName": "samsung galaxy s20+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g980f",
+      "deviceCommercialName": "samsung galaxy s20",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sc-51b",
+      "deviceCommercialName": "samsung galaxy s21 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scg09",
+      "deviceCommercialName": "samsung galaxy s21 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g9910",
+      "deviceCommercialName": "samsung galaxy s21 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g991q",
+      "deviceCommercialName": "samsung galaxy s21 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g991u1",
+      "deviceCommercialName": "samsung galaxy s21 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g991w",
+      "deviceCommercialName": "samsung galaxy s21 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g991b",
+      "deviceCommercialName": "samsung galaxy s21 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g991n",
+      "deviceCommercialName": "samsung galaxy s21 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g9900",
+      "deviceCommercialName": "samsung galaxy s21 fe 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g990b",
+      "deviceCommercialName": "samsung galaxy s21 fe 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g990b2",
+      "deviceCommercialName": "samsung galaxy s21 fe 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g990u",
+      "deviceCommercialName": "samsung galaxy s21 fe 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g990u1",
+      "deviceCommercialName": "samsung galaxy s21 fe 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g990u2",
+      "deviceCommercialName": "samsung galaxy s21 fe 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g990u3",
+      "deviceCommercialName": "samsung galaxy s21 fe 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g990w",
+      "deviceCommercialName": "samsung galaxy s21 fe 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g990w2",
+      "deviceCommercialName": "samsung galaxy s21 fe 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g990e",
+      "deviceCommercialName": "samsung galaxy s21 fe 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sc-52b",
+      "deviceCommercialName": "samsung galaxy s21 ultra 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g9980",
+      "deviceCommercialName": "samsung galaxy s21 ultra 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g998u",
+      "deviceCommercialName": "samsung galaxy s21 ultra 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g998u1",
+      "deviceCommercialName": "samsung galaxy s21 ultra 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g998w",
+      "deviceCommercialName": "samsung galaxy s21 ultra 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g998b",
+      "deviceCommercialName": "samsung galaxy s21 ultra 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g998n",
+      "deviceCommercialName": "samsung galaxy s21 ultra 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scg10",
+      "deviceCommercialName": "samsung galaxy s21+ 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g9960",
+      "deviceCommercialName": "samsung galaxy s21+ 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g996u1",
+      "deviceCommercialName": "samsung galaxy s21+ 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g996w",
+      "deviceCommercialName": "samsung galaxy s21+ 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g996b",
+      "deviceCommercialName": "samsung galaxy s21+ 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g996n",
+      "deviceCommercialName": "samsung galaxy s21+ 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sc-52c",
+      "deviceCommercialName": "samsung galaxy s22 ultra",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scg14",
+      "deviceCommercialName": "samsung galaxy s22 ultra",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s9080",
+      "deviceCommercialName": "samsung galaxy s22 ultra",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s908e",
+      "deviceCommercialName": "samsung galaxy s22 ultra",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s908n",
+      "deviceCommercialName": "samsung galaxy s22 ultra",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s908u",
+      "deviceCommercialName": "samsung galaxy s22 ultra",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s908u1",
+      "deviceCommercialName": "samsung galaxy s22 ultra",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s908w",
+      "deviceCommercialName": "samsung galaxy s22 ultra",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s908b",
+      "deviceCommercialName": "samsung galaxy s22 ultra",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s9060",
+      "deviceCommercialName": "samsung galaxy s22+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s906e",
+      "deviceCommercialName": "samsung galaxy s22+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s906n",
+      "deviceCommercialName": "samsung galaxy s22+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s906u",
+      "deviceCommercialName": "samsung galaxy s22+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s906u1",
+      "deviceCommercialName": "samsung galaxy s22+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s906w",
+      "deviceCommercialName": "samsung galaxy s22+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s906b",
+      "deviceCommercialName": "samsung galaxy s22+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sc-51c",
+      "deviceCommercialName": "samsung galaxy s22",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scg13",
+      "deviceCommercialName": "samsung galaxy s22",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s9010",
+      "deviceCommercialName": "samsung galaxy s22",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s901e",
+      "deviceCommercialName": "samsung galaxy s22",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s901n",
+      "deviceCommercialName": "samsung galaxy s22",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s901u",
+      "deviceCommercialName": "samsung galaxy s22",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s901u1",
+      "deviceCommercialName": "samsung galaxy s22",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s901w",
+      "deviceCommercialName": "samsung galaxy s22",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s901b",
+      "deviceCommercialName": "samsung galaxy s22",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g9287",
+      "deviceCommercialName": "samsung galaxy s6 edge+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g928f",
+      "deviceCommercialName": "samsung galaxy s6 edge+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g928g",
+      "deviceCommercialName": "samsung galaxy s6 edge+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g935f",
+      "deviceCommercialName": "samsung galaxy s7 edge",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g935l",
+      "deviceCommercialName": "samsung galaxy s7 edge",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g9350",
+      "deviceCommercialName": "samsung galaxy s7 edge",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g935u",
+      "deviceCommercialName": "samsung galaxy s7 edge",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g930f",
+      "deviceCommercialName": "samsung galaxy s7",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g930x",
+      "deviceCommercialName": "samsung galaxy s7",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g930w8",
+      "deviceCommercialName": "samsung galaxy s7",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g930k",
+      "deviceCommercialName": "samsung galaxy s7",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g930l",
+      "deviceCommercialName": "samsung galaxy s7",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g930s",
+      "deviceCommercialName": "samsung galaxy s7",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g930r7",
+      "deviceCommercialName": "samsung galaxy s7",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "samsung-sm-g930az",
+      "deviceCommercialName": "samsung galaxy s7",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "samsung-sm-g930a",
+      "deviceCommercialName": "samsung galaxy s7",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g930vc",
+      "deviceCommercialName": "samsung galaxy s7",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g9300",
+      "deviceCommercialName": "samsung galaxy s7",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g9308",
+      "deviceCommercialName": "samsung galaxy s7",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g930r6",
+      "deviceCommercialName": "samsung galaxy s7",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g930t1",
+      "deviceCommercialName": "samsung galaxy s7",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g930p",
+      "deviceCommercialName": "samsung galaxy s7",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g930vl",
+      "deviceCommercialName": "samsung galaxy s7",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g930t",
+      "deviceCommercialName": "samsung galaxy s7",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g930u",
+      "deviceCommercialName": "samsung galaxy s7",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g930r4",
+      "deviceCommercialName": "samsung galaxy s7",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g930v",
+      "deviceCommercialName": "samsung galaxy s7",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sc-03j",
+      "deviceCommercialName": "samsung galaxy s8+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scv35",
+      "deviceCommercialName": "samsung galaxy s8+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g955f",
+      "deviceCommercialName": "samsung galaxy s8+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g955n",
+      "deviceCommercialName": "samsung galaxy s8+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g955w",
+      "deviceCommercialName": "samsung galaxy s8+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g9550",
+      "deviceCommercialName": "samsung galaxy s8+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g955u",
+      "deviceCommercialName": "samsung galaxy s8+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g955u1",
+      "deviceCommercialName": "samsung galaxy s8+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sc-02j",
+      "deviceCommercialName": "samsung galaxy s8",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scv36",
+      "deviceCommercialName": "samsung galaxy s8",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g950f",
+      "deviceCommercialName": "samsung galaxy s8",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g950n",
+      "deviceCommercialName": "samsung galaxy s8",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g950w",
+      "deviceCommercialName": "samsung galaxy s8",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g9500",
+      "deviceCommercialName": "samsung galaxy s8",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g9508",
+      "deviceCommercialName": "samsung galaxy s8",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g950u",
+      "deviceCommercialName": "samsung galaxy s8",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g950u1",
+      "deviceCommercialName": "samsung galaxy s8",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sc-03k",
+      "deviceCommercialName": "samsung galaxy s9+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scv39",
+      "deviceCommercialName": "samsung galaxy s9+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g965f",
+      "deviceCommercialName": "samsung galaxy s9+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g965n",
+      "deviceCommercialName": "samsung galaxy s9+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g9650",
+      "deviceCommercialName": "samsung galaxy s9+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g965w",
+      "deviceCommercialName": "samsung galaxy s9+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g965u",
+      "deviceCommercialName": "samsung galaxy s9+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g965u1",
+      "deviceCommercialName": "samsung galaxy s9+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sc-02k",
+      "deviceCommercialName": "samsung galaxy s9",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scv38",
+      "deviceCommercialName": "samsung galaxy s9",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g960f",
+      "deviceCommercialName": "samsung galaxy s9",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g960n",
+      "deviceCommercialName": "samsung galaxy s9",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g9600",
+      "deviceCommercialName": "samsung galaxy s9",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g9608",
+      "deviceCommercialName": "samsung galaxy s9",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g960w",
+      "deviceCommercialName": "samsung galaxy s9",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g960u",
+      "deviceCommercialName": "samsung galaxy s9",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-g960u1",
+      "deviceCommercialName": "samsung galaxy s9",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scg04",
+      "deviceCommercialName": "samsung galaxy z flip 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f7070",
+      "deviceCommercialName": "samsung galaxy z flip 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f707b",
+      "deviceCommercialName": "samsung galaxy z flip 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f707n",
+      "deviceCommercialName": "samsung galaxy z flip 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f707u",
+      "deviceCommercialName": "samsung galaxy z flip 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f707u1",
+      "deviceCommercialName": "samsung galaxy z flip 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f707w",
+      "deviceCommercialName": "samsung galaxy z flip 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scv47",
+      "deviceCommercialName": "samsung galaxy z flip lte",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f7000",
+      "deviceCommercialName": "samsung galaxy z flip lte",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f700f",
+      "deviceCommercialName": "samsung galaxy z flip lte",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f700n",
+      "deviceCommercialName": "samsung galaxy z flip lte",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f700u",
+      "deviceCommercialName": "samsung galaxy z flip lte",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f700u1",
+      "deviceCommercialName": "samsung galaxy z flip lte",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f700w",
+      "deviceCommercialName": "samsung galaxy z flip lte",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sc-54b",
+      "deviceCommercialName": "samsung galaxy z flip3 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scg12",
+      "deviceCommercialName": "samsung galaxy z flip3 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f7110",
+      "deviceCommercialName": "samsung galaxy z flip3 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f711b",
+      "deviceCommercialName": "samsung galaxy z flip3 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f711n",
+      "deviceCommercialName": "samsung galaxy z flip3 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f711u",
+      "deviceCommercialName": "samsung galaxy z flip3 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f711u1",
+      "deviceCommercialName": "samsung galaxy z flip3 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f711w",
+      "deviceCommercialName": "samsung galaxy z flip3 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sc-54c",
+      "deviceCommercialName": "samsung galaxy z flip4 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scg17",
+      "deviceCommercialName": "samsung galaxy z flip4 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f7210",
+      "deviceCommercialName": "samsung galaxy z flip4 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f721b",
+      "deviceCommercialName": "samsung galaxy z flip4 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f721c",
+      "deviceCommercialName": "samsung galaxy z flip4 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f721n",
+      "deviceCommercialName": "samsung galaxy z flip4 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f721u",
+      "deviceCommercialName": "samsung galaxy z flip4 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f721u1",
+      "deviceCommercialName": "samsung galaxy z flip4 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f721w",
+      "deviceCommercialName": "samsung galaxy z flip4 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f9160",
+      "deviceCommercialName": "samsung galaxy z fold2 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f916b",
+      "deviceCommercialName": "samsung galaxy z fold2 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f916n",
+      "deviceCommercialName": "samsung galaxy z fold2 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f916q",
+      "deviceCommercialName": "samsung galaxy z fold2 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f916u",
+      "deviceCommercialName": "samsung galaxy z fold2 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f916u1",
+      "deviceCommercialName": "samsung galaxy z fold2 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f916w",
+      "deviceCommercialName": "samsung galaxy z fold2 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sc-55b",
+      "deviceCommercialName": "samsung galaxy z fold3 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scg11",
+      "deviceCommercialName": "samsung galaxy z fold3 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f9260",
+      "deviceCommercialName": "samsung galaxy z fold3 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f926b",
+      "deviceCommercialName": "samsung galaxy z fold3 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f926n",
+      "deviceCommercialName": "samsung galaxy z fold3 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f926u",
+      "deviceCommercialName": "samsung galaxy z fold3 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f926u1",
+      "deviceCommercialName": "samsung galaxy z fold3 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f926w",
+      "deviceCommercialName": "samsung galaxy z fold3 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sc-55c",
+      "deviceCommercialName": "samsung galaxy z fold4 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scg16",
+      "deviceCommercialName": "samsung galaxy z fold4 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f9360",
+      "deviceCommercialName": "samsung galaxy z fold4 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f936b",
+      "deviceCommercialName": "samsung galaxy z fold4 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f936n",
+      "deviceCommercialName": "samsung galaxy z fold4 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f936u",
+      "deviceCommercialName": "samsung galaxy z fold4 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f936u1",
+      "deviceCommercialName": "samsung galaxy z fold4 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f936w",
+      "deviceCommercialName": "samsung galaxy z fold4 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "google",
+      "deviceModel": "pixel",
+      "deviceCommercialName": "pixel (2016)",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "google",
+      "deviceModel": "pixel 2",
+      "deviceCommercialName": "pixel 2 (2017)",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "google",
+      "deviceModel": "pixel 3",
+      "deviceCommercialName": "pixel 3 (2018)",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "google",
+      "deviceModel": "pixel 3a",
+      "deviceCommercialName": "pixel 3a (2019)",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "google",
+      "deviceModel": "pixel 4",
+      "deviceCommercialName": "pixel 4 (2019)",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "google",
+      "deviceModel": "pixel 4a",
+      "deviceCommercialName": "pixel 4a (2020)",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "google",
+      "deviceModel": "pixel 4a (5g)",
+      "deviceCommercialName": "pixel 4a (5g)",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "google",
+      "deviceModel": "pixel 5",
+      "deviceCommercialName": "pixel 5",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "google",
+      "deviceModel": "pixel 5a",
+      "deviceCommercialName": "pixel 5a (5g)",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "google",
+      "deviceModel": "pixel 6 pro",
+      "deviceCommercialName": "pixel 6 pro",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "google",
+      "deviceModel": "pixel 6",
+      "deviceCommercialName": "pixel 6",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "google",
+      "deviceModel": "pixel 6a",
+      "deviceCommercialName": "pixel 6a",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "google",
+      "deviceModel": "pixel 7 pro",
+      "deviceCommercialName": "pixel 7 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "google",
+      "deviceModel": "pixel 7",
+      "deviceCommercialName": "pixel 7",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a3460",
+      "deviceCommercialName": "samsung galaxy a34 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a346b",
+      "deviceCommercialName": "samsung galaxy a34 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a346e",
+      "deviceCommercialName": "samsung galaxy a34 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a346m",
+      "deviceCommercialName": "samsung galaxy a34 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a346n",
+      "deviceCommercialName": "samsung galaxy a34 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sc-52d",
+      "deviceCommercialName": "samsung galaxy s23 ultra",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s9180",
+      "deviceCommercialName": "samsung galaxy s23 ultra",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s918b",
+      "deviceCommercialName": "samsung galaxy s23 ultra",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s918n",
+      "deviceCommercialName": "samsung galaxy s23 ultra",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s918u",
+      "deviceCommercialName": "samsung galaxy s23 ultra",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s918u1",
+      "deviceCommercialName": "samsung galaxy s23 ultra",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s918w",
+      "deviceCommercialName": "samsung galaxy s23 ultra",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s9160",
+      "deviceCommercialName": "samsung galaxy s23+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s916b",
+      "deviceCommercialName": "samsung galaxy s23+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s916n",
+      "deviceCommercialName": "samsung galaxy s23+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s916u",
+      "deviceCommercialName": "samsung galaxy s23+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s916u1",
+      "deviceCommercialName": "samsung galaxy s23+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s916w",
+      "deviceCommercialName": "samsung galaxy s23+",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sc-51d",
+      "deviceCommercialName": "samsung galaxy s23",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s9110",
+      "deviceCommercialName": "samsung galaxy s23",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s911b",
+      "deviceCommercialName": "samsung galaxy s23",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s911c",
+      "deviceCommercialName": "samsung galaxy s23",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s911n",
+      "deviceCommercialName": "samsung galaxy s23",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s911u",
+      "deviceCommercialName": "samsung galaxy s23",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s911u1",
+      "deviceCommercialName": "samsung galaxy s23",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s911w",
+      "deviceCommercialName": "samsung galaxy s23",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s7110",
+      "deviceCommercialName": "samsung galaxy s23 fe 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s711u",
+      "deviceCommercialName": "samsung galaxy s23 fe 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s711u1",
+      "deviceCommercialName": "samsung galaxy s23 fe 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s711w",
+      "deviceCommercialName": "samsung galaxy s23 fe 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s711b",
+      "deviceCommercialName": "samsung galaxy s23 fe 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s711n",
+      "deviceCommercialName": "samsung galaxy s23 fe 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sc-54d",
+      "deviceCommercialName": "samsung galaxy z flip5 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scg23",
+      "deviceCommercialName": "samsung galaxy z flip5 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f7310",
+      "deviceCommercialName": "samsung galaxy z flip5 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f731b",
+      "deviceCommercialName": "samsung galaxy z flip5 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f731n",
+      "deviceCommercialName": "samsung galaxy z flip5 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f731u",
+      "deviceCommercialName": "samsung galaxy z flip5 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f731u1",
+      "deviceCommercialName": "samsung galaxy z flip5 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f731w",
+      "deviceCommercialName": "samsung galaxy z flip5 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f731q",
+      "deviceCommercialName": "samsung galaxy z flip5 5g",
+      "nfcReaderPosition": "bottom"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sc-55d",
+      "deviceCommercialName": "samsung galaxy z fold5 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scg22",
+      "deviceCommercialName": "samsung galaxy z fold5 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f9460",
+      "deviceCommercialName": "samsung galaxy z fold5 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f946b",
+      "deviceCommercialName": "samsung galaxy z fold5 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f946n",
+      "deviceCommercialName": "samsung galaxy z fold5 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f946u",
+      "deviceCommercialName": "samsung galaxy z fold5 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f946u1",
+      "deviceCommercialName": "samsung galaxy z fold5 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f946w",
+      "deviceCommercialName": "samsung galaxy z fold5 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-f946q",
+      "deviceCommercialName": "samsung galaxy z fold5 5g",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a136b",
+      "deviceCommercialName": "samsung galaxy a13 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a136m",
+      "deviceCommercialName": "samsung galaxy a13 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a136s",
+      "deviceCommercialName": "samsung galaxy a13 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a136u",
+      "deviceCommercialName": "samsung galaxy a13 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a136u1",
+      "deviceCommercialName": "samsung galaxy a13 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a136w",
+      "deviceCommercialName": "samsung galaxy a13 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s136dl",
+      "deviceCommercialName": "samsung galaxy a13 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a146b",
+      "deviceCommercialName": "samsung galaxy a14 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a146m",
+      "deviceCommercialName": "samsung galaxy a14 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a146p",
+      "deviceCommercialName": "samsung galaxy a14 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a146u",
+      "deviceCommercialName": "samsung galaxy a14 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a146u1",
+      "deviceCommercialName": "samsung galaxy a14 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a146w",
+      "deviceCommercialName": "samsung galaxy a14 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s146vl",
+      "deviceCommercialName": "samsung galaxy a14 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a1560",
+      "deviceCommercialName": "samsung galaxy a15 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a156b",
+      "deviceCommercialName": "samsung galaxy a15 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a156e",
+      "deviceCommercialName": "samsung galaxy a15 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a156m",
+      "deviceCommercialName": "samsung galaxy a15 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a156u",
+      "deviceCommercialName": "samsung galaxy a15 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a156u1",
+      "deviceCommercialName": "samsung galaxy a15 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a156w",
+      "deviceCommercialName": "samsung galaxy a15 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s156v",
+      "deviceCommercialName": "samsung galaxy a15 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sc-56b",
+      "deviceCommercialName": "samsung galaxy a22 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a226b",
+      "deviceCommercialName": "samsung galaxy a22 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a226br",
+      "deviceCommercialName": "samsung galaxy a22 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sc-56c",
+      "deviceCommercialName": "samsung galaxy a23 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scg18",
+      "deviceCommercialName": "samsung galaxy a23 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a233c",
+      "deviceCommercialName": "samsung galaxy a23 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a2360",
+      "deviceCommercialName": "samsung galaxy a23 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a236b",
+      "deviceCommercialName": "samsung galaxy a23 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a236e",
+      "deviceCommercialName": "samsung galaxy a23 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a236m",
+      "deviceCommercialName": "samsung galaxy a23 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a236u",
+      "deviceCommercialName": "samsung galaxy a23 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a236u1",
+      "deviceCommercialName": "samsung galaxy a23 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s236dl",
+      "deviceCommercialName": "samsung galaxy a23 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s237vl",
+      "deviceCommercialName": "samsung galaxy a23 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a2560",
+      "deviceCommercialName": "samsung galaxy a25 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a256b",
+      "deviceCommercialName": "samsung galaxy a25 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a256e",
+      "deviceCommercialName": "samsung galaxy a25 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a256n",
+      "deviceCommercialName": "samsung galaxy a25 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a256u",
+      "deviceCommercialName": "samsung galaxy a25 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a256u1",
+      "deviceCommercialName": "samsung galaxy a25 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s256vl",
+      "deviceCommercialName": "samsung galaxy a25 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a3360",
+      "deviceCommercialName": "samsung galaxy a33 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a336b",
+      "deviceCommercialName": "samsung galaxy a33 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a336e",
+      "deviceCommercialName": "samsung galaxy a33 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a336m",
+      "deviceCommercialName": "samsung galaxy a33 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a336n",
+      "deviceCommercialName": "samsung galaxy a33 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a3560",
+      "deviceCommercialName": "samsung galaxy a35 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a356b",
+      "deviceCommercialName": "samsung galaxy a35 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a356e",
+      "deviceCommercialName": "samsung galaxy a35 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a356n",
+      "deviceCommercialName": "samsung galaxy a35 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a356u",
+      "deviceCommercialName": "samsung galaxy a35 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a356u1",
+      "deviceCommercialName": "samsung galaxy a35 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a356w",
+      "deviceCommercialName": "samsung galaxy a35 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s356v",
+      "deviceCommercialName": "samsung galaxy a35 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sc-53c",
+      "deviceCommercialName": "samsung galaxy a53 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scg15",
+      "deviceCommercialName": "samsung galaxy a53 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a5360",
+      "deviceCommercialName": "samsung galaxy a53 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a536b",
+      "deviceCommercialName": "samsung galaxy a53 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a536e",
+      "deviceCommercialName": "samsung galaxy a53 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a536n",
+      "deviceCommercialName": "samsung galaxy a53 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a536u",
+      "deviceCommercialName": "samsung galaxy a53 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a536u1",
+      "deviceCommercialName": "samsung galaxy a53 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a536w",
+      "deviceCommercialName": "samsung galaxy a53 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s536dl",
+      "deviceCommercialName": "samsung galaxy a53 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sc-53d",
+      "deviceCommercialName": "samsung galaxy a54 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scg21",
+      "deviceCommercialName": "samsung galaxy a54 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a5460",
+      "deviceCommercialName": "samsung galaxy a54 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a546b",
+      "deviceCommercialName": "samsung galaxy a54 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a546e",
+      "deviceCommercialName": "samsung galaxy a54 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a546u",
+      "deviceCommercialName": "samsung galaxy a54 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a546u1",
+      "deviceCommercialName": "samsung galaxy a54 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a546v",
+      "deviceCommercialName": "samsung galaxy a54 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a546w",
+      "deviceCommercialName": "samsung galaxy a54 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s546vl",
+      "deviceCommercialName": "samsung galaxy a54 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sc-53e",
+      "deviceCommercialName": "samsung galaxy a55 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scg27",
+      "deviceCommercialName": "samsung galaxy a55 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a5560",
+      "deviceCommercialName": "samsung galaxy a55 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a556b",
+      "deviceCommercialName": "samsung galaxy a55 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-a556e",
+      "deviceCommercialName": "samsung galaxy a55 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-m336b",
+      "deviceCommercialName": "samsung galaxy m33 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-m336bu",
+      "deviceCommercialName": "samsung galaxy m33 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-m346b",
+      "deviceCommercialName": "samsung galaxy m34 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-m346b1",
+      "deviceCommercialName": "samsung galaxy m34 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-m346b2",
+      "deviceCommercialName": "samsung galaxy m34 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sc-52e",
+      "deviceCommercialName": "samsung galaxy s24 ultra",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scg26",
+      "deviceCommercialName": "samsung galaxy s24 ultra",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s9280",
+      "deviceCommercialName": "samsung galaxy s24 ultra",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s928b",
+      "deviceCommercialName": "samsung galaxy s24 ultra",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s928n",
+      "deviceCommercialName": "samsung galaxy s24 ultra",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s928q",
+      "deviceCommercialName": "samsung galaxy s24 ultra",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s928u",
+      "deviceCommercialName": "samsung galaxy s24 ultra",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s928u1",
+      "deviceCommercialName": "samsung galaxy s24 ultra",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s928w",
+      "deviceCommercialName": "samsung galaxy s24 ultra",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s9260",
+      "deviceCommercialName": "samsung galaxy s24+",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s926u",
+      "deviceCommercialName": "samsung galaxy s24+",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s926u1",
+      "deviceCommercialName": "samsung galaxy s24+",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s926w",
+      "deviceCommercialName": "samsung galaxy s24+",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s926b",
+      "deviceCommercialName": "samsung galaxy s24+",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s926n",
+      "deviceCommercialName": "samsung galaxy s24+",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sc-51e",
+      "deviceCommercialName": "samsung galaxy s24",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scg25",
+      "deviceCommercialName": "samsung galaxy s24",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s9210",
+      "deviceCommercialName": "samsung galaxy s24",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s921q",
+      "deviceCommercialName": "samsung galaxy s24",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s921u",
+      "deviceCommercialName": "samsung galaxy s24",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s921u1",
+      "deviceCommercialName": "samsung galaxy s24",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s921w",
+      "deviceCommercialName": "samsung galaxy s24",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s921b",
+      "deviceCommercialName": "samsung galaxy s24",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s921n",
+      "deviceCommercialName": "samsung galaxy s24",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "google",
+      "deviceModel": "pixel 7a",
+      "deviceCommercialName": "pixel 7a",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "google",
+      "deviceModel": "pixel 8",
+      "deviceCommercialName": "pixel 8",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "google",
+      "deviceModel": "pixel 8 pro",
+      "deviceCommercialName": "pixel 8 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "google",
+      "deviceModel": "pixel 8a",
+      "deviceCommercialName": "pixel 8a",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "scg30",
+      "deviceCommercialName": "samsung galaxy s24 fe",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s7210",
+      "deviceCommercialName": "samsung galaxy s24 fe",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s721b",
+      "deviceCommercialName": "samsung galaxy s24 fe",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s721n",
+      "deviceCommercialName": "samsung galaxy s24 fe",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s721q",
+      "deviceCommercialName": "samsung galaxy s24 fe",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s721u",
+      "deviceCommercialName": "samsung galaxy s24 fe",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s721u1",
+      "deviceCommercialName": "samsung galaxy s24 fe",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "samsung",
+      "deviceModel": "sm-s721w",
+      "deviceCommercialName": "samsung galaxy s24 fe",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "zorn",
+      "deviceCommercialName": "redmi k80",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "miro",
+      "deviceCommercialName": "redmi k80 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "vermeer",
+      "deviceCommercialName": "redmi k70",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "manet",
+      "deviceCommercialName": "redmi k70 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "duchamp",
+      "deviceCommercialName": "redmi k70e",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "rothko",
+      "deviceCommercialName": "redmi k70 ultra",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "rembrandt",
+      "deviceCommercialName": "redmi k60e",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "socrates",
+      "deviceCommercialName": "redmi k60 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "mondrian",
+      "deviceCommercialName": "redmi k60",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "corot",
+      "deviceCommercialName": "redmi k60 ultra",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "diting",
+      "deviceCommercialName": "redmi k50 ultra",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "matisse",
+      "deviceCommercialName": "redmi k50 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "rubens",
+      "deviceCommercialName": "redmi k50",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "ingres",
+      "deviceCommercialName": "redmi k50g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "munch",
+      "deviceCommercialName": "redmi k40s",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "alioth",
+      "deviceCommercialName": "redmi k40",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "haydn",
+      "deviceCommercialName": "redmi k40 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "apollo",
+      "deviceCommercialName": "redmi k30s ultra",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "cezanne",
+      "deviceCommercialName": "redmi k30 ultra",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "lmi",
+      "deviceCommercialName": "redmi k30 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "phoenix",
+      "deviceCommercialName": "redmi k30",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "picasso",
+      "deviceCommercialName": "redmi k30 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "lmipro",
+      "deviceCommercialName": "redmi k30 pro zoom edition",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "davinci",
+      "deviceCommercialName": "redmi k20",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "raphael",
+      "deviceCommercialName": "redmi k20 pro",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "malachite",
+      "deviceCommercialName": "redmi note 14 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "ruyi",
+      "deviceCommercialName": "xiaomi mix flip",
+      "nfcReaderPosition": "side"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "haotian",
+      "deviceCommercialName": "xiaomi 15 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "dada",
+      "deviceCommercialName": "xiaomi 15",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "rodin",
+      "deviceCommercialName": "redmi turbo 4",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "houji",
+      "deviceCommercialName": "xiaomi 14",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "shennong",
+      "deviceCommercialName": "xiaomi 14 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "aurora",
+      "deviceCommercialName": "xiaomi 14 ultra",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "goku",
+      "deviceCommercialName": "xiaomi mix fold 4",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "amethyst",
+      "deviceCommercialName": "redmi note 14 pro+",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "ishtar",
+      "deviceCommercialName": "xiaomi 13 ultra",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "fuxi",
+      "deviceCommercialName": "xiaomi 13",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "nuwa",
+      "deviceCommercialName": "xiaomi 13 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "babylon",
+      "deviceCommercialName": "xiaomi mix fold 3",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "zircon",
+      "deviceCommercialName": "redmi note 13 pro+",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "garnet",
+      "deviceCommercialName": "redmi note 13 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "peridot",
+      "deviceCommercialName": "redmi turbo 3",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "mayfly",
+      "deviceCommercialName": "xiaomi 12s",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "psyche",
+      "deviceCommercialName": "mi 12x",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "zizhan",
+      "deviceCommercialName": "xiaomi mix fold 2",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "thor",
+      "deviceCommercialName": "xiaomi 12s ultra",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "marble",
+      "deviceCommercialName": "redmi note 12 turbo      ",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "redwood",
+      "deviceCommercialName": "redmi  note 12 pro speed",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "rubyplus",
+      "deviceCommercialName": "redmi note 12 discovery edition",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "rubypro",
+      "deviceCommercialName": "redmi note 12 pro+",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "ruby",
+      "deviceCommercialName": "redmi note 12 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "daumier",
+      "deviceCommercialName": "xiaomi 12 pro dimensity",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "unicorn",
+      "deviceCommercialName": "xiaomi 12s pro",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "cupid",
+      "deviceCommercialName": "mi 12",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "zeus",
+      "deviceCommercialName": "mi 12 pro",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "pearl",
+      "deviceCommercialName": "redmi note 12t pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "river",
+      "deviceCommercialName": "redmi 12 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "mars",
+      "deviceCommercialName": "mi 11 pro",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "star",
+      "deviceCommercialName": "mi 11 ultra",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "venus",
+      "deviceCommercialName": "mi 11",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "xagapro",
+      "deviceCommercialName": "redmi note 11t pro+",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "xaga",
+      "deviceCommercialName": "redmi note 11t pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "lisa",
+      "deviceCommercialName": "xiaomi 11 lite 5g ne",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "renoir",
+      "deviceCommercialName": "mi 11 lite 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "pissarro",
+      "deviceCommercialName": "redmi note 11 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "pissarropro",
+      "deviceCommercialName": "redmi note 11 pro+",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "veux",
+      "deviceCommercialName": "redmi note 11e pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "cetus",
+      "deviceCommercialName": "mix fold",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "chopin",
+      "deviceCommercialName": "redmi note 10 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "vangogh",
+      "deviceCommercialName": "mi 10 lite zoom",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "thyme",
+      "deviceCommercialName": "mi 10s",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "cas",
+      "deviceCommercialName": "mi 10 ultra",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "bomb",
+      "deviceCommercialName": "redmi 10x pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "umi",
+      "deviceCommercialName": "mi 10",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "cmi",
+      "deviceCommercialName": "mi 10 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "gauguinpro",
+      "deviceCommercialName": "redmi note 9 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "crux",
+      "deviceCommercialName": "mi 9 pro 5g",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "grus",
+      "deviceCommercialName": "mi 9 se",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "cepheus",
+      "deviceCommercialName": "mi 9",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "begonia",
+      "deviceCommercialName": "redmi note 8 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "dipper",
+      "deviceCommercialName": "mi 8",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "sagit",
+      "deviceCommercialName": "mi 6",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "mi 5",
+      "deviceCommercialName": "mi 5",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "mi 5s",
+      "deviceCommercialName": "mi 5s",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "mi 5s plus",
+      "deviceCommercialName": "mi 5s plus",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "odin",
+      "deviceCommercialName": "mix 4",
+      "nfcReaderPosition": "center"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "chenfeng",
+      "deviceCommercialName": "xiaomi civi 4 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "yuechu",
+      "deviceCommercialName": "xiaomi civi 3",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "perseus",
+      "deviceCommercialName": "mix 3",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "jason",
+      "deviceCommercialName": "mi note 3",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "ziyi",
+      "deviceCommercialName": "xiaomi civi 2",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "polaris",
+      "deviceCommercialName": "mix 2s",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "chiron",
+      "deviceCommercialName": "mix 2",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "mi note 2",
+      "deviceCommercialName": "mi note 2",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "zijin",
+      "deviceCommercialName": "xiaomi civi 1s",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "mona",
+      "deviceCommercialName": "xiaomi civi",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "mix",
+      "deviceCommercialName": "mix",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "tucana",
+      "deviceCommercialName": "mi cc9 pro",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "pyxis",
+      "deviceCommercialName": "mi cc 9",
+      "nfcReaderPosition": "top"
+  },
+  {
+      "manufacturer": "xiaomi",
+      "deviceModel": "vayu",
+      "deviceCommercialName": "poco x3 pro",
+      "nfcReaderPosition": "top"
+  }
+]
